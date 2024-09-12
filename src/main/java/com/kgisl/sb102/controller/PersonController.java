@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.kgisl.sb102.entity.Person;
-import com.kgisl.sb102.repository.PersonRepository;
+// import com.kgisl.sb102.repository.PersonRepository;
 import com.kgisl.sb102.service.PersonService;
 
 import io.swagger.v3.oas.annotations.parameters.RequestBody;
